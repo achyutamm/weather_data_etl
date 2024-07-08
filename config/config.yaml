@@ -1,5 +1,5 @@
 weather_api:
-  api_key: bbe1a23a650741da917145735242106
+  api_key: bbe1a23a650741da917145735242106e
   cities:
     - Mumbai
     - Delhi
