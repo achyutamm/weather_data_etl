@@ -1,0 +1,17 @@
+weather_api:
+  api_key: bbe1a23a650741da917145735242106
+  cities:
+    - Mumbai
+    - Delhi
+    - Bangalore
+    - Hyderabad
+    - Ahmedabad
+    - Chennai
+    - Kolkata
+    - Pune
+    - Jaipur
+    - Surat
+
+s3:
+  bucket_name: weather-etl-bucket
+  folder: weather_data
